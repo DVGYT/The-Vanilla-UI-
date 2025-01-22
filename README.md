@@ -1,2 +1,1 @@
-# The-Vanilla-UI-
-## Credit: @DVGYT
+# The-Vanilla-UI
